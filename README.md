@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Ćao, ja sam Adna!
 
-<!--
-**adnnqq/adnnqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Imam **18 godina** i učenica sam u **JU Mješovita srednja elektrotehnička škola Tuzla**, na smjeru **Tehničar računarstva**. 
 
-Here are some ideas to get you started:
+Ovaj profil mi služi kao arhiva za školske projekte, laboratorijske vježbe i kodove koje pišem usput.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Šta me najviše zanima:
+* **Programiranje u C++** i razvoj logike.
+* **Automatika** i spajanje hardvera s kodom.
+* Fokus na **praktičan rad** i rješavanje konkretnih problema umjesto same teorije.
+
+### 🛠️ Praktični projekti i iskustvo:
+* **Rad s Arduinom** (spajanje elektronike i programiranja).
+* Razvoj sistema za **pametnu kuću**.
+* Izrada različitih tehničkih **simulacija**.
+
+---
+
+### 📞 Kontakt:
+Za sva pitanja, informacije ili saradnju na projektima, možete me kontaktirati zvanično putem moje škole, **JU MS Elektrotehnička škola Tuzla**.
